@@ -75,7 +75,7 @@ I tried reading the contents of `/opt/Valenfind/app.py`:
 
 The output confirms the application uses Flask.
 
-The file includes a reference to an SQL database and an API key: ``
+The file includes a reference to an SQL database and an API key: 
 
 ![](Attachments/Pasted%20image%2020260921200644.png)
 
